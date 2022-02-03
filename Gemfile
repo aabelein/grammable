@@ -77,3 +77,6 @@ end
 gem 'yarn', '~> 0.1.1'
 
 gem 'terser', '~> 1.1', '>= 1.1.1'
+
+gem 'simple_form'
+
