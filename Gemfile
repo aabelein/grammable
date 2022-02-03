@@ -74,3 +74,6 @@ source 'http://insecure.rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
 
+gem 'yarn', '~> 0.1.1'
+
+gem 'terser', '~> 1.1', '>= 1.1.1'
