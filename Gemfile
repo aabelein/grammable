@@ -80,3 +80,4 @@ gem 'terser', '~> 1.1', '>= 1.1.1'
 
 gem 'simple_form'
 
+gem 'devise'
