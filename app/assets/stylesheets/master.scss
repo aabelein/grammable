@@ -103,3 +103,16 @@ input {
         font-weight: bold;
         font-size: 18px;
     }
+
+.btn-2-link {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    font-weight: bold;
+    /*optional*/
+    /*input has OS specific font-family*/
+    color: #125688;
+    text-decoration: none;
+    cursor: pointer;
+   
+}
